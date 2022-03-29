@@ -1,0 +1,6 @@
+[submodule "MicroBurst"]
+	path = MicroBurst
+	url = https://github.com/NetSPI/MicroBurst
+[submodule "MFASweep"]
+	path = MFASweep
+	url = https://github.com/dafthack/MFASweep
