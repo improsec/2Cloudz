@@ -9,6 +9,7 @@ Furthermore, we've also included the detection and improving security section, w
 * Detection & Improving Security  
 
 Written by Casper Schjøtt & Nichlas Falk  
+*This blog post is inspired by the fantastic [Dark Side Ops 3 – Azure Cloud Pentesting training course](https://www.netspi.com/training/dark-side-ops-azure-cloud-pentesting/) from NetSPI led by Karl Fosaaen, his amazing research, and the book “Penetration Testing Azure for Ethical Hacker” also co-written by [Karl Fosaaen](https://twitter.com/kfosaaen) together with [David Okeyode](https://twitter.com/asegunlolu).*
 
 # Deployment
 Obviously, we'll start at the deployment phase. If you wish to setup an Azure tenant but not sure how to go about it, follow along and soon you will be hacking all the clouds. Since the actual attacks and attack path has not been covered, some of the configurations may not make sense immediately. We will attempt to explain what we're doing as we go along.  
